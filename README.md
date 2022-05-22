@@ -1,3 +1,6 @@
+# Plugins
+- discord.js
+
 # Heroku GIT Deploy
 #### Install the Heroku CLI
 Download and install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
