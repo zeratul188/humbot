@@ -1,4 +1,4 @@
-# heroku git deploy
+# Heroku GIT Deploy
 #### Install the Heroku CLI
 Download and install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
 If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.
