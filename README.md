@@ -1,5 +1,6 @@
 # Plugins
 - discord.js
+- firebase
 
 # Heroku GIT Deploy
 #### Install the Heroku CLI
